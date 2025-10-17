@@ -2,9 +2,8 @@ Checkpoint 4 - Sistemas
 
 Rodrigo Alegro Cavalheiro - RM: 87421
 
-<img width="500" alt="log_esp32_1" src="https://github.com/user-attachments/assets/d76e7f72-568a-42ad-8ca4-c6e5affd53a9.png" />
+![6c1ae941-4f65-47e9-b186-34fb84b79352](https://github.com/user-attachments/assets/6a3290a5-34ca-4f60-8dfe-d6c483f67fd2)
 
-<img width="449" alt="log_esp32_2" src="https://github.com/user-attachments/assets/d211e3c8-d3a8-4b11-9f44-4a5d5a0f4e0b.png" />
+![57ea1e93-9e29-4c99-ac41-15c8df3ce265](https://github.com/user-attachments/assets/1c133b53-83c8-4337-89ac-a989f5c7e792)
 
-<img width="846" alt="log_esp32_3" src="https://github.com/user-attachments/assets/f60e43e9-d00c-44f9-8c7c-11499b9bd8b9.png" />
-
+![0168f75e-da23-4639-87a8-81b0d40c49ab](https://github.com/user-attachments/assets/f0ea4ae5-3bc0-42ae-ad33-633ad82c33a5)
